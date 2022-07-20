@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @girish-m-vyas
-- 👀 I’m interested in coding, networking and cloud part.
-- 🌱 I’m currently learning cloud.
+- 👀 I’m interested in Data, Dashboard and cloud part.
+- 🌱 I’m currently learning Data Analyst.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
