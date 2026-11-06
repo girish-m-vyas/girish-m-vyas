@@ -42,12 +42,15 @@ Earlier in my career I worked on AD administration at **I Vitesse Technologies**
 
 **Identity:** Active Directory · Microsoft Entra ID · Okta (OIE) · SailPoint ISC (learning) · SCIM · LDAP · Kerberos · RBAC · MFA · Federation
 
+**Data:** SQL
+
 **AI:** Claude API · Groq / Llama · Prompt engineering · LangChain
 
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white)
 ![SailPoint](https://img.shields.io/badge/SailPoint_ISC-0033A1?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 📚 Currently Learning
 
@@ -69,7 +72,6 @@ I run a **90-day IAM series on LinkedIn**, with carousels and posts on Active Di
 <div align="center">
 
 ![Girish's GitHub stats](https://github-readme-stats.vercel.app/api?username=girish-m-vyas&show_icons=true&theme=tokyonight&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=girish-m-vyas&layout=compact&theme=tokyonight&hide_border=true)
 
 ![Contribution streak](https://streak-stats.demolab.com?user=girish-m-vyas&theme=tokyonight&hide_border=true)
 
