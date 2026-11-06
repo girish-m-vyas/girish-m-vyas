@@ -2,7 +2,7 @@
 
 # Hi, I'm Girish 👋
 
-### Identity & Access Management Professional · Builder of IAM tools · Learning Data Analytics
+### Identity & Access Management Professional · Builder of IAM tools
 
 📍 Thane / Navi Mumbai, Maharashtra, India
 
@@ -33,16 +33,14 @@ Earlier in my career I worked on AD administration at **I Vitesse Technologies**
 | Project | What it is |
 |---|---|
 | 🛡️ **[Dwarpal](https://github.com/girish-m-vyas/Dwarpal)** | An Identity Governance and Administration (IGA) tool, aiming to grow into a product in the space of SailPoint, Okta and RSA IGA |
-| 🌐 **IAMverse Portal** | A React single-page knowledge portal with an IAM course catalog, blog and a Claude API-powered chat assistant |
+| 🌐 **IAMverse Portal** | A knowledge portal with an IAM course catalog, blog and a Claude API-powered chat assistant |
 | 🤖 **IAMGPT** | An IAM-focused AI assistant using the Groq API with a Llama model, deployed on Render |
-| 🔄 **HRMS ↔ AD Reconciliation** | No-code (React + Flask) and Python tools for reconciling HR records against Active Directory, with Claude API integration |
+| 🔄 **HRMS ↔ AD Reconciliation** | No-code and scripted tools for reconciling HR records against Active Directory, with Claude API integration |
 | 🧩 **UAM Hub** | A user access management project in progress |
 
 ## 🛠️ Tech & Tools
 
 **Identity:** Active Directory · Microsoft Entra ID · Okta (OIE) · SailPoint ISC (learning) · SCIM · LDAP · Kerberos · RBAC · MFA · Federation
-
-**Development & Data:** Python · SQL · JavaScript / Node.js · React · Flask · Playwright · Git
 
 **AI:** Claude API · Groq / Llama · Prompt engineering · LangChain
 
@@ -50,18 +48,11 @@ Earlier in my career I worked on AD administration at **I Vitesse Technologies**
 ![Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white)
 ![SailPoint](https://img.shields.io/badge/SailPoint_ISC-0033A1?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📚 Currently Learning
 
 - 🎯 SC-300 (Microsoft Identity and Access Administrator)
 - 🎯 SailPoint Identity Security Cloud (ISC)
-- 📈 Data Analytics with **SQL** (window functions) and **Python**, plus dashboards
 - 🎯 Combining IAM with GenAI
 
 ## ✍️ Writing
