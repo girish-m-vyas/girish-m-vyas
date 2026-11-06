@@ -2,7 +2,9 @@
 
 # Hi, I'm Girish 👋
 
-### Identity & Access Management Professional · Building IAM tools & learning Data Analytics
+### Identity & Access Management Professional · Builder of IAM tools · Learning Data Analytics
+
+📍 Thane / Navi Mumbai, Maharashtra, India
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=IAM+%7C+Active+Directory+%7C+Entra+ID+%7C+Okta;Leading+a+team+of+12+at+RBL+Bank;Building+Dwarpal%2C+an+IGA+platform;Turning+identity+data+into+dashboards" alt="Typing intro" />
 
@@ -14,45 +16,62 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🔐 What I Do
 
-- 🏦 **Assistant Manager, IAM** at **RBL Bank** (Navi Mumbai), leading a team of 12
-- 🔐 Day to day: user provisioning and deprovisioning, Active Directory management, HRMS-to-AD reconciliation, UAM dashboards for senior management, and audit evidence
-- 📝 I write BRDs for automation projects and build tools to remove manual IAM work
-- 📊 Currently learning **Data Analytics** (SQL, dashboards, cloud) to get more out of identity data
-- 🎓 MCA (Manipal University) · BSc IT (Mumbai University)
-- 💼 Earlier at **Wipro** (IAM and AD support) and **I Vitesse Technologies** (AD administration)
+I lead a team of 12 handling enterprise Identity and Access Management at **RBL Bank** (Assistant Manager, IAM). My day-to-day covers:
+
+- User provisioning and deprovisioning (joiner / mover / leaver)
+- Active Directory management and HRMS-to-AD reconciliation
+- UAM dashboards and reporting for senior management
+- Audit evidence preparation and query management
+- Writing BRDs for IAM automation projects
+
+Earlier in my career I worked on AD administration at **I Vitesse Technologies** and IAM / AD support at **Wipro**, including hands-on **Okta** and **Microsoft Entra ID**.
+
+## 🚀 What I'm Building
+
+| Project | What it is |
+|---|---|
+| 🛡️ **[Dwarpal](https://github.com/girish-m-vyas/Dwarpal)** | An Identity Governance and Administration (IGA) tool, aiming to grow into a product in the space of SailPoint, Okta and RSA IGA |
+| 🌐 **IAMverse Portal** | A React single-page knowledge portal with an IAM course catalog, blog and a Claude API-powered chat assistant |
+| 🤖 **IAMGPT** | An IAM-focused AI assistant using the Groq API with a Llama model, deployed on Render |
+| 🔄 **HRMS ↔ AD Reconciliation** | No-code (React + Flask) and Python tools for reconciling HR records against Active Directory, with Claude API integration |
+| 🧩 **UAM Hub** | A user access management project in progress |
 
 ## 🛠️ Tech & Tools
+
+**Identity:** Active Directory · Microsoft Entra ID · Okta (OIE) · SailPoint ISC (learning) · SCIM · LDAP · Kerberos · RBAC · MFA · Federation
+
+**Development & Data:** Python · SQL · JavaScript / Node.js · React · Flask · Playwright · Git
+
+**AI:** Claude API · Groq / Llama · Prompt engineering · LangChain
 
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white)
 ![SailPoint](https://img.shields.io/badge/SailPoint_ISC-0033A1?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 🚀 What I'm Building
-
-| Project | What it is |
-|---|---|
-| 🛡️ **[Dwarpal](https://github.com/girish-m-vyas/Dwarpal)** | An Identity Governance & Administration (IGA) platform, built with the goal of growing into a product in the space of SailPoint, Okta and RSA IGA |
-| 🌐 **IAMverse Portal** | A React knowledge portal: IAM course catalog, blog and a Claude API-powered chat interface |
-| 🔄 **HRMS ↔ AD Reconciliation** | A no-code reconciliation tool (React and Flask versions) that matches HR records against Active Directory |
-| 🤖 **IAMGPT** | An IAM assistant agent powered by a Llama model through the Groq API |
-| ❓ **UAM FAQ Bot** | An internal bot that answers user access management questions |
 
 ## 📚 Currently Learning
 
-- 🎯 SC-300 (Microsoft Identity and Access Administrator) and SailPoint ISC certifications
-- 📈 SQL (including window functions), data analysis and dashboarding
-- ☁️ Cloud fundamentals
+- 🎯 SC-300 (Microsoft Identity and Access Administrator)
+- 🎯 SailPoint Identity Security Cloud (ISC)
+- 📈 Data Analytics with **SQL** (window functions) and **Python**, plus dashboards
+- 🎯 Combining IAM with GenAI
+
+## ✍️ Writing
+
+I run a **90-day IAM series on LinkedIn**, with carousels and posts on Active Directory, Microsoft Entra ID, Okta, SCIM and user lifecycle management. It grew out of an earlier "90 Days of Cybersecurity" series.
+
+## 🎓 Education
+
+- **MCA**, Manipal University
+- **BSc IT**, Mumbai University
 
 ## 📊 GitHub Stats
 
@@ -67,7 +86,7 @@
 
 ## 🤝 Let's Connect
 
-I'm happy to collaborate on **IAM automation**, **IGA tooling**, and **data and dashboard** projects. If you work on something similar, reach out.
+Always happy to talk IAM, identity governance, and automation.
 
 <div align="center">
 
